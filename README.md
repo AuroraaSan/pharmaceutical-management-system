@@ -2,7 +2,7 @@
 
 This repository contains the source code and documentation for a Pharmaceutical Management System designed to manage inventory in a pharmacy. 
 The system provides functionality to track and manage drugs stored in inventory, including stock management, ordering, reporting, and printing.
-Attached a demo video showing the functionalities of the application and srs document for the project
+Attached a demo video showing the functionalities of the application and srs document for the project.
 ## Features
 -Account and Shift Management, the application shows:
   - Staff member’s personal information for creating an account.
